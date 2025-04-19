@@ -1,0 +1,12 @@
+result-cnn/
+result-mlp/
+result-lstm
+result-gru/
+text_classification/
+Chinese-Text-Classification-Pytorch/
+checkpoint/
+checkpoint-new/
+作业2/
+wandb/
+杨凯森_2023010730.md
+*.png
